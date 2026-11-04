@@ -38,10 +38,6 @@ Custom diagnostic and control system developed specifically for Volvo vehicle, p
     </tr>
   </tbody>
 </table>
----
-
-
-
 
 
 ## Hardware & Tech Stack
@@ -54,3 +50,5 @@ Custom diagnostic and control system developed specifically for Volvo vehicle, p
   * Piezo Buzzer audio alert module.
 * **Diagnostic Protocols:** UDS (ISO 14229-1), CAN-TP / DoCAN (ISO 15765-2), OBD-II (Mode 01, Mode 04).
 * **User Interface:** HTML5, CSS3, JavaScript (WebSockets, mDNS).
+
+---
