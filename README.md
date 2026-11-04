@@ -24,19 +24,7 @@ Custom diagnostic and control system developed specifically for Volvo vehicle, p
 
 | Main Dashboard | DTC Fault Diagnostics | Fault Clearing |
 | :---: | :---: | :---: |
-| ![Volvo Main Panel](<img width="701" height="1584" alt="WhatsApp Image 2026-11-04 at 19 53 51 (1)" src="https://github.com/user-attachments/assets/a32a2563-ad07-42e0-b16d-404d7b3e2cb8" />
-) | ![Volvo DTC Panel](<img width="921" height="1911" alt="WhatsApp Image 2026-11-04 at 19 53 51 (5)" src="https://github.com/user-attachments/assets/6b2f1aea-5cb5-4f6c-9326-09799ec24176" />
-) | ![Volvo Clear DTC](<img width="921" height="1911" alt="WhatsApp Image 2026-11-04 at 19 53 51 (6)" src="https://github.com/user-attachments/assets/b6cbe85f-cdab-4609-97b4-623a07dbad90" />
-) |
-
----
-
-## System Data Flow
-
-```text
-[ OBD-II Port ]     --->  [ ESP32 + CAN Modules ]  --->  [ WebSockets Server ]  --->  [ Web Dashboard ]
-(HS-CAN / LS-CAN)           (UDS / OBD Engine)           (Wi-Fi / mDNS)            (Browser)
-```
+| ![Volvo Main Panel](https://github.com/user-attachments/assets/a32a2563-ad07-42e0-b16d-404d7b3e2cb8) | ![Volvo DTC Panel](https://github.com/user-attachments/assets/6b2f1aea-5cb5-4f6c-9326-09799ec24176) | ![Volvo Clear DTC](https://github.com/user-attachments/assets/b6cbe85f-cdab-4609-97b4-623a07dbad90) |
 
 ---
 
