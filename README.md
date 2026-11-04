@@ -33,8 +33,8 @@ Custom diagnostic and control system developed specifically for Volvo vehicle, p
   <tbody>
     <tr>
       <td align="center"><img src="https://github.com/user-attachments/assets/a32a2563-ad07-42e0-b16d-404d7b3e2cb8" width="100%" alt="Main Dashboard" /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/6b2f1aea-5cb5-4f6c-9326-09799ec24176" width="100%" alt="DTC Fault Diagnostics" /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/b6cbe85f-cdab-4609-97b4-623a07dbad90" width="100%" alt="Fault Clearing" /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/6b2f1aea-5cb5-4f6c-9326-09799ec24176" width="100%" alt="Fault Clearing" /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/b6cbe85f-cdab-4609-97b4-623a07dbad90" width="100%" alt="DTC Fault Diagnostics" /></td>
     </tr>
   </tbody>
 </table>
